@@ -1,2 +1,4 @@
-const a=100;
-const myFn=()=>{};
+
+const a=10;
+const b='Hi there';
+
